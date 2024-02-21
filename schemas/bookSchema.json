@@ -14,9 +14,7 @@
             "title": "The book Schema",
             "required": [
                 "isbn",
-                "amazon-url",
                 "author",
-                "language",
                 "pages",
                 "publisher",
                 "title",
